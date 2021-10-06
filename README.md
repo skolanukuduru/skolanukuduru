@@ -2,6 +2,7 @@
 <p>💵 Partner @ <a href="chalkvc.com">Chalk Fund</a></p>
 <p>🔩 Former <a href="cofounderscapital.com">Cofounders Capital</a>, Bamboo (YCW20)</p>
 <p>🔨 Building Lux Libertas Ventures @ UNC.</p>
+<p>📥 Reach out to me: <a href="mailto:shri@chalkvc.com">shri@chalkvc.com</a></p>
 
 <!--
 skolanukuduru/skolanukuduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
