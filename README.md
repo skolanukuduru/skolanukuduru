@@ -1,7 +1,7 @@
 ### Hi there, I'm Shri:
-💵 Partner @ <a href="chalkvc.com">Chalk Fund</a>
-🔩 Former <a href="cofounderscapital.com">Cofounders Capital</a>, Bamboo (YCW20)
-🔨 Building Lux Libertas Ventures @ UNC.
+<p>💵 Partner @ <a href="chalkvc.com">Chalk Fund</a></p>
+<p>🔩 Former <a href="cofounderscapital.com">Cofounders Capital</a>, Bamboo (YCW20)</p>
+<p>🔨 Building Lux Libertas Ventures @ UNC.</p>
 
 <!--
 skolanukuduru/skolanukuduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
