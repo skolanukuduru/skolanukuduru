@@ -1,5 +1,5 @@
 ### Hi there, I'm Shri:
-<p>💵 Partner @ <a href="chalkvc.com">Chalk Fund</a></p>
+<p>💵 Partner @ <a href="https://www.chalkvc.com">Chalk Fund</a></p>
 <p>🔩 Former <a href="cofounderscapital.com">Cofounders Capital</a>, Bamboo (YCW20)</p>
 <p>🔨 Building Lux Libertas Ventures @ UNC.</p>
 <p>📥 Reach out to me: <a href="mailto:shri@chalkvc.com">shri@chalkvc.com</a></p>
