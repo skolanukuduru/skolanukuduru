@@ -3,6 +3,7 @@
 <p>🔩 Former <a href="https://cofounderscapital.com"target="_blank">Cofounders Capital</a>, Bamboo (YCW20)</p>
 <p>🔨 Building Lux Libertas Ventures @ UNC.</p>
 <p>📥 Reach out to me: <a href="mailto:shri@chalkvc.com">shri@chalkvc.com</a></p>
+<p>🤓 Current research project: A Quantitative Analysis of Cleantech Startup Benefits w/ Professor Jiayi Bao</p>
 
 <!--
 skolanukuduru/skolanukuduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
