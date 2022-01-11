@@ -1,5 +1,5 @@
 ### Hi there, I'm Shri:
-<p>🚨 Head of Growth @ <a href="simplify.jobs" target="_blank">Simplify (YCW21)</a></p>
+<p>🚨 Head of Growth @ <a href="https://simplify.jobs" target="_blank">Simplify (YCW21)</a></p>
 <p>💵 Partner @ <a href="https://www.chalkvc.com" target="_blank">Chalk Fund</a></p>
 <p>🔩 Former <a href="https://cofounderscapital.com"target="_blank">Cofounders Capital</a>, Bamboo (YCW20)</p>
 <p>🔨 Building Lux Libertas Ventures @ UNC.</p>
